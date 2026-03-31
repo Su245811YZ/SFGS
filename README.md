@@ -3,13 +3,16 @@
 
 Plaintext
 SFGS
-|-- common (核心内核代码)
+```
+${ROOT}
+|-- main
+|-- common
 |-- |-- utils/human_model_files
 |-- |-- |-- smplx/SMPLX_FEMALE.npz
 |-- |-- |-- smplx/SMPLX_MALE.npz
 |-- |-- |-- smplx/SMPLX_NEUTRAL.npz
 |-- |-- |-- smplx/MANO_LEFT.pkl             
-|-- |-- |-- smplx/MANO_RIGHT.pkl            
+|-- |-- |-- smplx/MANO_RIGHT.pkl     
 |-- |-- |-- smplx/MANO_SMPLX_vertex_ids.pkl
 |-- |-- |-- smplx/SMPL-X__FLAME_vertex_ids.npy
 |-- |-- |-- smplx/smplx_flip_correspondences.npz
@@ -21,9 +24,12 @@ SFGS
 |-- |-- |-- flame/FLAME_texture.npz
 |-- data
 |-- |-- XHumans
-|-- |-- |-- data/00028                   
-|-- tools 
-|-- output 
+|-- |-- |-- data/00028
+|-- |-- |-- data/00034
+|-- |-- |-- data/00087
+|-- tools
+|-- output
+```
 模型下载提示：
 
 SMPL-X 1.1 版本
