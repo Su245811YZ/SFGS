@@ -1,3 +1,5 @@
+[Structure-Aware Fine-Grained Gaussian Splatting for Expressive Avatar Reconstruction](https://arxiv.org/abs/2604.09324), [arXiv](https://arxiv.org/abs/2604.09324)
+
 1. 目录结构
 请确保你的文件布局如下所示，特别是 common 目录下的模型文件路径：
 
