@@ -1,4 +1,4 @@
-## [Structure-Aware Fine-Grained Gaussian Splatting for Expressive Avatar Reconstruction](https://arxiv.org/abs/2604.09324), [Paper (arXiv)](https://arxiv.org/abs/2604.09324)
+## [Structure-Aware Fine-Grained Gaussian Splatting for Expressive Avatar Reconstruction](https://arxiv.org/abs/2604.09324), [arXiv](https://arxiv.org/abs/2604.09324)
 
 ---
 
