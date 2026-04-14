@@ -1,4 +1,4 @@
-[Structure-Aware Fine-Grained Gaussian Splatting for Expressive Avatar Reconstruction](https://arxiv.org/abs/2604.09324), [arXiv](https://arxiv.org/abs/2604.09324)
+### [Structure-Aware Fine-Grained Gaussian Splatting for Expressive Avatar Reconstruction](https://arxiv.org/abs/2604.09324), [arXiv](https://arxiv.org/abs/2604.09324)
 
 1. 目录结构
 请确保你的文件布局如下所示，特别是 common 目录下的模型文件路径：
@@ -80,3 +80,16 @@ python test.py --subject_id 00028 --test_epoch 20
 
 Bash
 python eval_xhumans.py --output_path ../output/result/00028 --subject_id 00028
+
+如以上对您有用，请引用我们的论文，谢谢！
+
+```
+@misc{su2026structureawarefinegrainedgaussiansplatting,
+      title={Structure-Aware Fine-Grained Gaussian Splatting for Expressive Avatar Reconstruction}, 
+      author={Yuze Su and Hongsong Wang and Jie Gui and Liang Wang},
+      year={2026},
+      eprint={2604.09324},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.09324}, 
+}
