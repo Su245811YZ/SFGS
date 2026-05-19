@@ -44,7 +44,7 @@ ${ROOT}
 
 ## 2. XHumans Data Preparation
 
-Download the dataset from the following link:
+Download the dataset from the following link,extract together with files of the same name:
 
 Firstly：
 
@@ -54,7 +54,6 @@ Secondly：
 
 * [https://drive.google.com/drive/folders/1TalHPkbohPoTPNawVi2gbj6M8nAyYAE9?usp=sharing](https://drive.google.com/drive/folders/1TalHPkbohPoTPNawVi2gbj6M8nAyYAE9?usp=sharing)
 
-Extract together with files of the same name
 ---
 
 ## 3. Training
